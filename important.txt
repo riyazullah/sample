@@ -1,0 +1,39 @@
+https://medium.com/mindorks/android-series-using-retrofit-to-consume-apis-67e047e375d
+
+https://www.tatnorix.in/how-to-get-json-data-using-get-retrofit-in-android/
+
+http://www.androidcoding.in/2018/02/12/android-get-data-using-retrofit-library/
+
+https://www.simplifiedcoding.net/retrofit-android-example/
+
+fetching data from server using retrofit in android studio
+
+http://192.168.43.33/phpprograms/selectcustomer.php
+
+https://velmm.com/retrofit-android-example-with-recyclerview/
+
+https://www.androidhive.info/2016/05/android-working-with-retrofit-http-library/
+
+https://demonuts.com/android-recyclerview-retrofit/
+
+https://www.simplifiedcoding.net/android-viewmodel-using-retrofit/
+
+https://demonuts.com/Demonuts/JsonTest/Tennis/json_parsing.php---url
+
+
+AsyncTask : https://www.journaldev.com/9708/android-asynctask-example-tutorial
+https://www.learn2crack.com/2013/10/android-asynctask-json-parsing-example.html
+https://androidexample.com/AsyncroTask_Example_To_Get_Server_Data_-_Android_Example/index.php?view=article_discription&aid=59&aaid=84
+https://medium.com/@JasonCromer/android-asynctask-http-request-tutorial-6b429d833e28
+
+https://stackoverflow.com/questions/35602276/android-studio-cannot-resolve-symbol-httpclient
+
+https://www.tutorialspoint.com/android-asynctask-example-and-explanation
+
+https://abhiandroid.com/programming/retrofit
+
+https://medium.com/@JasonCromer/android-asynctask-http-request-tutorial-6b429d833e28
+
+how to install gitbash on windows 8.1 hindi
+
+https://www.youtube.com/watch?v=hsHVGit53sg
